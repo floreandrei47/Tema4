@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "fAl7pQY73JhEcSMSzB8EzUJxXMqxI4JYCAXWAU1YeNQ+rP3Y8g5ZOeG7li+GJSYqC+fUjEQQcJ7Dz+MLiuLIOw==",
+  "success": true,
+  "projectFilePath": "D:\\Teme Cegeka\\Tema4\\Tema\\tema4\\tema4\\tema4.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Andrei\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\3.1.0\\microsoft.aspnetcore.jsonpatch.3.1.0.nupkg.sha512",
+    "C:\\Users\\Andrei\\.nuget\\packages\\microsoft.aspnetcore.mvc.newtonsoftjson\\3.1.0\\microsoft.aspnetcore.mvc.newtonsoftjson.3.1.0.nupkg.sha512",
+    "C:\\Users\\Andrei\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\Andrei\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\Andrei\\.nuget\\packages\\newtonsoft.json.bson\\1.0.2\\newtonsoft.json.bson.1.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
